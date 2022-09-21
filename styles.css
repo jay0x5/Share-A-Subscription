@@ -164,6 +164,9 @@ body{
     width:400px;
 }
 
+
+
+
 .hulu-logo{
     position: relative;
     top: 100px;
@@ -174,3 +177,108 @@ body{
 .hulu-logo:hover{
     width:400px;
 }
+
+
+
+
+
+.xbox-logo{
+    position: relative;
+    top: 150px;
+    left:10px;
+    width:500px;
+    transition: width 1s;
+}
+
+.xbox-logo:hover{
+    width:550px;
+}
+
+
+
+
+
+.roku-logo{
+    position: relative;
+    top: 150px;
+    left:20px;
+    width:450px;
+    transition: width 1s;
+}
+
+.roku-logo:hover{
+    width:500px;
+}
+
+
+
+
+
+
+.spectrum-logo{
+    position: relative;
+    top: 150px;
+    left:20px;
+    width:450px;
+    transition: width 1s;
+}
+
+.spectrum-logo:hover{
+    width:500px;
+}
+
+
+
+
+
+.att-logo{
+    position: relative;
+    top: 220px;
+    left:20px;
+    width:450px;
+    transition: width 1s;
+}
+
+.att-logo:hover{
+    width:500px;
+}
+
+
+
+
+
+
+
+.tmobile-logo{
+    position: relative;
+    top: 220px;
+    left:100px;
+    width:450px;
+    transition: width 1s;
+}
+
+.tmobile-logo:hover{
+    width:500px;
+}
+
+
+
+
+
+
+.mintmobile-logo{
+    position: relative;
+    top: 190px;
+    left:150px;
+    width:450px;
+    transition: width 1s;
+}
+
+.mintmobile-logo:hover{
+    width:500px;
+}
+
+
+
+
+
