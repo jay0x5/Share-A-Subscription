@@ -56,7 +56,7 @@
     </div>
 
     <div class="HomePage">
-        <img class="netflix-logo"src="netflix.png" onclick="">
+        <a href="./components/Pricing.html"><img class="netflix-logo" src="netflix.png"></a>
         <img class="prime-logo"src="prime.png" onclick="">
         <img class="hulu-logo"src="hulu.png" onclick="">
         <img class="xbox-logo"src="Xbox.png" onclick="">
@@ -79,4 +79,10 @@
         
     
 </body>
+<script>
+    function myFunction() {
+      document.getElementById("netflix-logo").href = "http://www.cnn.com/";
+      document.getElementById("demo").innerHTML = "The link above now goes to www.cnn.com.";
+    }
+    </script>
 </html>
